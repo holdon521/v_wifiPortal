@@ -1,0 +1,16 @@
+.mint-indicator-wrapper {
+	z-index: 99;
+}
+.mint-msgbox {
+	border-radius: 7px;
+	width: 68%;
+}
+.mint-msgbox-message {
+	line-height: 25px;
+}
+.mint-msgbox-content {
+	padding: 8px 20px 10px;
+}
+.mint-msgbox-btn {
+	font-size: 16px;
+}
