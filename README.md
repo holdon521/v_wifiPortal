@@ -1,2 +1,2 @@
 # v_wifiPortal
-for wifi
+for wifi gogo
